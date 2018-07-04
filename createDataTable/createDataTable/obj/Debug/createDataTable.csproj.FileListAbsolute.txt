@@ -1,0 +1,11 @@
+C:\Users\YANGMarieYu\AppData\Local\Temporary Projects\createDataTable\bin\Debug\createDataTable.dll
+C:\Users\YANGMarieYu\AppData\Local\Temporary Projects\createDataTable\bin\Debug\createDataTable.pdb
+C:\Users\YANGMarieYu\AppData\Local\Temporary Projects\createDataTable\obj\Debug\createDataTable.csproj.CoreCompileInputs.cache
+C:\Users\YANGMarieYu\AppData\Local\Temporary Projects\createDataTable\obj\Debug\createDataTable.dll
+C:\Users\YANGMarieYu\AppData\Local\Temporary Projects\createDataTable\obj\Debug\createDataTable.pdb
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\bin\Debug\createDataTable.dll
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\bin\Debug\createDataTable.pdb
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\createDataTable.csproj.CoreCompileInputs.cache
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\createDataTable.dll
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\createDataTable.pdb
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\createDataTable.csprojResolveAssemblyReference.cache

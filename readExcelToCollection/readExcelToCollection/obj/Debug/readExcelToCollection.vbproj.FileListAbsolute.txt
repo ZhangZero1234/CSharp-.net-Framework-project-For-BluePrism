@@ -1,0 +1,20 @@
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\bin\Debug\readExcelToCollection.dll
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\bin\Debug\readExcelToCollection.pdb
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\bin\Debug\readExcelToCollection.xml
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.vbprojResolveAssemblyReference.cache
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.vbproj.GenerateResource.cache
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.vbproj.CoreCompileInputs.cache
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.dll
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.xml
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.pdb
+C:\Users\YANGMarieYu\source\repos\readExcelToCollection\readExcelToCollection\obj\Debug\Seven.Resources.resources
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\bin\Debug\readExcelToCollection.dll
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\bin\Debug\readExcelToCollection.pdb
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\bin\Debug\readExcelToCollection.xml
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.vbprojResolveAssemblyReference.cache
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\Seven.Resources.resources
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.vbproj.GenerateResource.cache
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.vbproj.CoreCompileInputs.cache
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.dll
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.xml
+C:\Users\YANGMarieYu\Desktop\C#.net project For bluePrism\readExcelToCollection\readExcelToCollection\obj\Debug\readExcelToCollection.pdb

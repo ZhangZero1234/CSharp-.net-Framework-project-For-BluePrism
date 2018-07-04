@@ -1,0 +1,10 @@
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\bin\Debug\notesServerSeven.dll
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\bin\Debug\notesServerSeven.pdb
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\bin\Debug\notesServerSeven.xml
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\notesServerSeven.vbproj.GenerateResource.cache
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\notesServerSeven.vbproj.CoreCompileInputs.cache
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\notesServerSeven.dll
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\notesServerSeven.xml
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\notesServerSeven.pdb
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\NoteServer.Resources.resources
+C:\Users\YANGMarieYu\source\repos\notesServerSeven\notesServerSeven\obj\Debug\notesServerSeven.vbprojResolveAssemblyReference.cache

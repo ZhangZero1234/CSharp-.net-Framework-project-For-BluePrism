@@ -1,0 +1,5 @@
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\bin\Debug\createDataTable.dll
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\bin\Debug\createDataTable.pdb
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\CreateTableData.csproj.CoreCompileInputs.cache
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\createDataTable.dll
+C:\Users\YANGMarieYu\source\repos\createDataTable\createDataTable\obj\Debug\createDataTable.pdb
